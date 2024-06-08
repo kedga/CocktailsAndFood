@@ -19,3 +19,4 @@ Bowls & Cocktails is a mock restaurant website designed to provide an engaging u
 - **Tailwind CSS** for efficient and customizable styling.
 - **React Router** for seamless navigation between different views.
 - **Context API** for state management, ensuring a consistent and scalable architecture.
+- **TheCocktailDB API**: An open API used to load drink information.
